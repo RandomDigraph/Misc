@@ -8,7 +8,7 @@ package hashing;
 import java.lang.String;
 /**
  *
- * @author dw
+ * @author
  */
 public interface IHash {
     void add(int Key, String Value);
