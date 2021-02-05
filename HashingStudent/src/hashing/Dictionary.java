@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author dw
+ * @author 
  */
 public class Dictionary implements IHash {
     private final int MAX_SIZE = 11;
